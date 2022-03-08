@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "USwPI8pBFrdkzR5x+7GSr6tNhi68adFo3QCQwHMzddpjig0SL4scw0FtSMo/vjpIeywQm7ktjJ2kHo1oXFUXtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexa\\OneDrive\\Área de Trabalho\\Csharp\\Bootcamp\\GFT\\projetoseries\\dio-series-csharp\\Dio.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexa\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alexa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alexa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alexa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
